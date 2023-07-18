@@ -17,7 +17,6 @@ namespace NBXplorer
 			InitGroestlcoin(networkType);
 			InitBGold(networkType);
 			InitDash(networkType);
-			InitPIVX(networkType);
 			InitTerracoin(networkType);
 			InitPolis(networkType);
 			InitMonacoin(networkType);
